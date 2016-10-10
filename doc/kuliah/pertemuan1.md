@@ -33,18 +33,20 @@ Aplikasi yang digunakan bisa menggunakan QGIS
 ## Penutup
 
 **Kesimpulan**
+
 jadi di pertemuan pertama ini dapat disimpulkan untuk mengetahui fungsi dari mempelajari GIS ini, dari mengetahui tata cara perhitungan koordinat dengan latitude dan longitude hingga letak posisi koordinat (0,0).
 
 **Saran**
+
 Ditambahkan nya praktek secara langsung dalam pengujian aplikasi
 
 
-Nama : Ali Abdul Wahid
-Kelas : 3A
-Prodi : D4 Teknik Informatika
-Mata Kuliah : Sistem Informasi Geografis
+* Nama : Ali Abdul Wahid
+* Kelas : 3A
+* Prodi : D4 Teknik Informatika
+* Mata Kuliah : Sistem Informasi Geografis
 
-Link Github : 
+Link Github : https://github.com/aliwebdeveloper/gis/
 
 Referensi :
 http://www.zainalhakim.web.id/pengertian-gis.html
