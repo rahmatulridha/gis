@@ -42,6 +42,7 @@ Ditambahkan nya praktek secara langsung dalam pengujian aplikasi
 
 
 * Nama : Ali Abdul Wahid
+* NPM : 1144091
 * Kelas : 3A
 * Prodi : D4 Teknik Informatika
 * Mata Kuliah : Sistem Informasi Geografis
