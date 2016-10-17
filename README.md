@@ -8,3 +8,6 @@
 Tugas Sistem Informasi Geografis
 
 1. Pertemuan 1 : https://github.com/aliwebdeveloper/gis/blob/master/doc/kuliah/pertemuan1.md
+<br>
+1. Pertemuan 2 :
+https://github.com/aliwebdeveloper/gis/blob/master/doc/kuliah/pertemuan2.md

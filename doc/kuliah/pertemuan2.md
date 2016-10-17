@@ -26,20 +26,20 @@ jadi di pertemuan kedua ini dapat disimpulkan geospasial menunjukan suatu lokasi
 ## Saran
 Ditambahkan praktek menggunakan aplikasi seperti QGIS agar tidak semua nya mengenai praktek
 
-Nama : Ali Abdul Wahid
-NPM : 1144091
-Kelas : 3A
-Prodi : D4 Teknik Informatika
-Mata Kuliah : Sistem Informasi Geografis
+Nama : Ali Abdul Wahid<br>
+NPM : 1144091<br>
+Kelas : 3A<br>
+Prodi : D4 Teknik Informatika<br>
+Mata Kuliah : Sistem Informasi Geografis<br>
 
 Link Github : https://github.com/aliwebdeveloper/gis
-
-Referensi :
-www.naturalearthdata.com
+<br>
+Referensi :<br>
+www.naturalearthdata.com<br>
 http://pinterdw.blogspot.co.id/2012/03/pengertian-geospasial.html
 
-Scan Plagiarisme
-1. smallseotools - Link
+Scan Plagiarisme<br>
+1. smallseotools - Link<br>
 https://drive.google.com/open?id=0BxoQ3Zecy5bzdjMwcjlTTWVYRXM
 2. searchenginereports - Link
 https://drive.google.com/open?id=0BxoQ3Zecy5bzSzZFemQ1RUtMSXc
