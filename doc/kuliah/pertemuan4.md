@@ -93,7 +93,7 @@ jenis geometri dari points
 Menampilkan jumlah record melalui terminal
 
 <p align="center">
-  <img src="../../img/Screenshot from 2016-11-05 23-51-22.png.jpg">
+  <img src="../../img/Screenshot from 2016-11-05 23-51-22.png">
 </p>
 
 Menampilkan jumlah record dengan py shp
